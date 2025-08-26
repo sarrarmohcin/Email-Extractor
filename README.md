@@ -31,7 +31,7 @@ A Python script that takes a search query, performs a Google search, visits all 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sarrarmohcin/News-Aggregator.git
+   git clone https://github.com/sarrarmohcin/Email-Extractor.git
    ```
 2. Install requirements
    ```sh
