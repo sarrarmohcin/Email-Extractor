@@ -43,29 +43,10 @@ A Python script that takes a search query, performs a Google search, visits all 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Add your RSS feed URLs to newspapers.json
-```
-[
-  {
-    "name": "New York Times",
-    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-  },
-  {
-    "name": "France 24",
-    "url": "https://www.france24.com/en/rss"
-  },
-  {
-    "name": "NBC News",
-    "url": "https://www.nbcnews.com/feed"
-  }
-]
+python main.py --search "graphic designers in New York" --limit 2
 
-```
-2. Run the script
-   ```sh
-   python mai.py
-   ```
-3. The script will fetch the latest articles and append them to articles.csv
+--search : search query (required)
+--limit : Limit number of pages (must be > 0, required)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
