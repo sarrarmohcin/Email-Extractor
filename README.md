@@ -14,8 +14,7 @@ A Python script that takes a search query, performs a Google search, visits all 
 - 🕸️ Crawls each result URL
 - ✉️ Extracts email addresses
 - 📞 Extracts phone numbers (basic regex-based)
-- 💾 Saves the extracted data to a file or displays it in the console
-
+- 💾 Saves the extracted data to CSV file
   <br>
 
 ## 🚀 How It Works
