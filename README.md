@@ -6,6 +6,7 @@
 A Python script that takes a search query, performs a Google search, visits all websites in the search results, and extracts **email addresses** and **phone numbers** found on those pages.
 
   <br>
+
 ## ⚙️ Features
 
 - 🔍 Accepts any search query
@@ -37,7 +38,8 @@ A Python script that takes a search query, performs a Google search, visits all 
    ```sh
    pip install -r requirements.txt
    ```
-
+3. Install Camoufox
+   View Camoufox Docs : https://camoufox.com/python/installation/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
