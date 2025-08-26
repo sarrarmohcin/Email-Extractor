@@ -39,7 +39,7 @@ A Python script that takes a search query, performs a Google search, visits all 
    pip install -r requirements.txt
    ```
 3. Install Camoufox
-   View Camoufox Docs : https://camoufox.com/python/installation/
+    : https://camoufox.com/python/installation/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
