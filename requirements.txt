@@ -1,0 +1,7 @@
+pandas
+camoufox
+email_validator
+requests-html
+beautifulsoup4
+asyncio
+argparse
