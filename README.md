@@ -44,11 +44,11 @@ A Python script that takes a search query, performs a Google search, visits all 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-python main.py --search "graphic designers in New York" --limit 2
-
---search : search query (required)
---limit : Limit number of pages (must be > 0, required)
+```sh
+python main.py --query "graphic designers in New York" --limit 2
+```
+--query : Search Query (required)
+--limit : Limit of pages (default: 1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
